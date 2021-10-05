@@ -1,0 +1,3 @@
+com\ceep\dominio\Producto.class
+com\ceep\dominio\Orden.class
+com\ceep\gestionventas\GestionVentas.class
